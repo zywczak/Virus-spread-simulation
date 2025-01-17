@@ -1,10 +1,10 @@
 # Virus-spread-simulation
-Symulacja zakażania wirusem zgodna z wytycznymi na zajęciach ze wzorcami projektowymi stan, pamiątka z zapisem do pliku i odczytem zapisanego stanu symulacji
+Virus infection simulation in accordance with the guidelines of the design patterns: state, souvenir, with saving to a file and reading the saved simulation state
 
-## Wytyczne
-![Wytyczne](https://github.com/zywczak/Virus-spread-simulation/blob/main/wytyczne.png)
+## Guidelines
+![Guidelines](https://github.com/zywczak/Virus-spread-simulation/blob/main/wytyczne.png)
 
 ![Virus-spread-simulation](https://github.com/zywczak/Virus-spread-simulation/blob/main/Simulation.png)
 
-## Autorzy
+## Author
 Piotr Żywczak
